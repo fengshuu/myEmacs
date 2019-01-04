@@ -1,0 +1,48 @@
+noehu
+find . --name hh
+g
+ll
+ls
+cd 
+cd Documents/test/
+ll
+ls
+cd company/
+ll
+ls
+cd creditease/
+ls
+cd temp/
+sh run.sh 
+mv run.sh ~/test/
+cd ~/test/
+ll
+ll
+ls -a
+ll
+ll -l
+ls -l
+alias ll=ls -l
+ll
+aliases ll=ls -l
+find / -n eshell-ali
+find / -name eshell-ali
+find ~ -name eshell-ali
+alias ll='ls -l'
+ll
+ll
+alias ll='ls -l'
+vi ../.emacs.d/eshell/alias
+ll
+e ../.emacs.d/eshell/alias
+vi ../.emacs.d/eshell/alias
+ll
+ll
+ll
+ll
+alise ll=ls -l
+alisa ll=ls -l
+alias ll=ls -l
+ll
+ll
+sh run.sh 
